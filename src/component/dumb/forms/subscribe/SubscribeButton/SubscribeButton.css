@@ -1,0 +1,22 @@
+.subscribe-button{
+    background: #e50914;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    height: 50px;
+    width: fit-content;
+    padding: 10px 32px;
+    align-items: center;
+    font-size: 26px;
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.subscribe-button-image{
+    width: 28px;
+    margin-left: 10px;
+    filter: invert(1);
+    margin-left: 3px;
+}
